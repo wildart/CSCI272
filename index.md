@@ -28,8 +28,7 @@
 ## Tools
 
 ### Git
-- Resources to learn Git
-    - https://try.github.io/
+- [Resources to learn Git](https://try.github.io/)
     - https://lab.github.com/
 - [First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)
     - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
