@@ -16,15 +16,6 @@
 - [Templates](https://nbviewer.jupyter.org/github/wildart/CSCI272/blob/main/notebooks/Templates.ipynb)
 - [Exceptions](https://nbviewer.jupyter.org/github/wildart/CSCI272/blob/main/notebooks/Exeptions.ipynb)
 
-
-## Assignments
-
-- [HW1: TBA]()
-
-## Labs
-
-- [Lab1: TBA]()
-
 ## Tools
 
 ### Git
