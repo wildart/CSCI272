@@ -9,7 +9,7 @@
 - [Classes: Advanced](https://nbviewer.jupyter.org/github/wildart/CSCI272/blob/main/notebooks/Classes-Advanced.ipynb)
 - [Operators](https://nbviewer.jupyter.org/github/wildart/CSCI272/blob/main/notebooks/Operators.ipynb)
 - [Stream I/O](https://nbviewer.jupyter.org/github/wildart/CSCI272/blob/main/notebooks/Streams.ipynb)
-- [Inheritance](pdf/Inheritance.pdf)
+- [Inheritance](https://nbviewer.jupyter.org/github/wildart/CSCI272/blob/main/notebooks/Inheritance.ipynb)
 - [Polymorphism](https://nbviewer.jupyter.org/github/wildart/CSCI272/blob/main/notebooks/Polymorphism.ipynb)
 - [Files](https://nbviewer.jupyter.org/github/wildart/CSCI272/blob/main/notebooks/Files.ipynb)
 - [Pointers](https://nbviewer.jupyter.org/github/wildart/CSCI272/blob/main/notebooks/Pointers.ipynb)
@@ -25,6 +25,7 @@
     - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 - [Learn Version Control with Git](https://www.git-tower.com/learn/git/videos/)
 - [Git & GitHub Crash Course For Beginners](https://youtu.be/SWYqp7iY_Tc)
+- [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
 ### repl.it
 
