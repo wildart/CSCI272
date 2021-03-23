@@ -14,7 +14,7 @@
 - [Files](https://nbviewer.jupyter.org/github/wildart/CSCI272/blob/main/notebooks/Files.ipynb)
 - [Pointers](https://nbviewer.jupyter.org/github/wildart/CSCI272/blob/main/notebooks/Pointers.ipynb)
 - [Templates](https://nbviewer.jupyter.org/github/wildart/CSCI272/blob/main/notebooks/Templates.ipynb)
-- [Exceptions](https://nbviewer.jupyter.org/github/wildart/CSCI272/blob/main/notebooks/Exeptions.ipynb)
+- [Exceptions](https://nbviewer.jupyter.org/github/wildart/CSCI272/blob/main/notebooks/Exceptions.ipynb)
 
 ## Tools
 
